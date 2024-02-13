@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel Gaza: Biden urges Israel to protect Rafah civilians",
+    "description": "The US president says Israeli operations in the Gazan city should not go ahead \"without a credible plan\".",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-68281213",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2D3E/production/_132628511_e51369c5777ba4fa8575c97a3bed2c110178e280-1.jpg",
+    "publishedAt": "2024-02-13T04:37:12.624215Z",
+    "content": "Media caption, Watch: How did Rafah become home to 1.5 million Palestinians?\r\nUS President Joe Biden has said an Israeli offensive in Rafah \"should not proceed without a credible plan for ensuring th… [+3401 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Watch: Huge fire engulfs new Swedish water park",
+    "description": "Video shows huge flames and thick smoke rising from large water slides in Gothenburg.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68279358",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/07A0/production/_132625910_p0hbjlfj.jpg",
+    "publishedAt": "2024-02-13T04:22:15.0766648Z",
+    "content": "Footage shows a huge fire engulfing a newly built water park in Gothenburg, Sweden.\r\nTwelve people were sent to hospital for minor injuries, and police say one person is currently missing.\r\nOfficers … [+228 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Squishmallows has launched a legal fight against Build-A-Bear",
+    "description": "The firm behind the Squishmallows cuddly characters has kicked off a courtroom copyright fight.",
+    "url": "https://www.bbc.co.uk/news/business-68280258",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1EB2/production/_130385870_squish2.jpg",
+    "publishedAt": "2024-02-13T04:07:14.0296475Z",
+    "content": "Fur may be about to fly as two hugely popular plush toy makers square up for a fight over a copyright issue.\r\nSquishmallows, says Skoosherz, a new toy made by Build-A-Bear Workshop is too similar to … [+2053 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Why the race to replace George Santos matters beyond New York",
+    "description": "Democrat Tom Suozzi and Republican Mazi Pilip are running a campaign closely watched by both parties.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68280588",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7384/production/_132627592_gettyimages-1824779423.jpg",
+    "publishedAt": "2024-02-13T03:52:15.5308823Z",
+    "content": "George Santos walked the halls of Capitol Hill for less than a year as a congressman before his colleagues expelled him last December over allegations of fraud. \r\nVoting is now under way to pick his … [+5502 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Watch: 'Whose daughter is she?' – on patrol with Gaza's paramedics",
+    "description": "As waves of air strikes hit in the first month of war, BBC News Arabic followed the tireless first responders.",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-68280216",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1829C/production/_132627989_p0hbkc54.jpg",
+    "publishedAt": "2024-02-13T03:52:13.0146471Z",
+    "content": "Warning: This video contains images of conflict and violence that some viewers may find distressing.\r\nDuring the first month of the war between Hamas and Israel, northern Gaza was under heavy Israeli… [+379 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Trump endorses daughter-in-law Lara Trump for RNC leadership",
+    "description": "A successful co-chair bid for Lara Trump would shift the Republican committee closer to Mr Trump's campaign.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68255431",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8157/production/_132611133_gettyimages-1247684553.jpg",
+    "publishedAt": "2024-02-13T02:52:15.998935Z",
+    "content": "Former US President Donald Trump has endorsed his daughter-in-law to head the Republican National Committee (RNC). \r\nMr Trump voiced his support for Lara Trump and Michael Whatley, chair of North Car… [+2968 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Why US economy is powering ahead of Europe's",
+    "description": "A fast-growing economy, low jobless numbers and falling inflation - how the US outpaced competitors.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68203820",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/185AE/production/_132585799_shopper_976getty.jpg",
+    "publishedAt": "2024-02-13T01:52:15.7339524Z",
+    "content": "While countries around the world have struggled to recover from the economic setbacks brought on by the pandemic, one has emerged particularly strong.\r\nWith a fast-growing economy, a strong labour ma… [+5493 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Trump takes immunity challenge to US Supreme Court",
+    "description": "He is fighting a lower court ruling that he can be tried for allegedly plotting to overturn 2020 election.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68277167",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/145FC/production/_132625438_gettyimages-1993693376.jpg",
+    "publishedAt": "2024-02-12T21:52:14.7331387Z",
+    "content": "Ex-US President Donald Trump has asked the Supreme Court to suspend a lower court ruling that he does not have presidential immunity from prosecution.\r\nMr Trump had claimed in his election interferen… [+274 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Robert F Kennedy Jr apologises to family over Super Bowl ad",
+    "description": "The advertisement, aired just before halftime, spliced images of the candidate into a 1960 JFK ad.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68275635",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DBF7/production/_132611365_gettyimages-1993689815.jpg",
+    "publishedAt": "2024-02-12T16:37:16.2275286Z",
+    "content": "Robert F Kennedy Jr has apologised to relatives after a Super Bowl advert mirrored one broadcast by his uncle John F Kennedy's campaign in 1960. \r\nMr Kennedy, an environmental lawyer and anti-vaccine… [+2633 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Lakewood church: What we know about Texas megachurch shooting",
+    "description": "A woman was shot and killed by police after she opened fire at Joel Osteen’s Texas megachurch.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68277166",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D0CC/production/_132625435_476e420ed7bbcf8f4ddbf09016a14e2553f0fd76.jpg",
+    "publishedAt": "2024-02-12T16:07:19.5323346Z",
+    "content": "A Texas woman has been shot and killed after she opened fire in a crowded megachurch owned by the evangelical pastor Joel Osteen. \r\nTwo off-duty police officers, working as church security, shot and … [+2498 chars]"
+    }
+    ]
+    }

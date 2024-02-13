@@ -150,10 +150,11 @@ loading: false
       <div className="container my-3">
         <h2 className="text-center">NewsWebApp  - Top Headlines</h2>
         <div className="row">
-            <div className="col-md-4">
+            {this.articles.map ((element)=>{
+         return   <div className="col-md-4" key={element.url}>
 
-        <NewsItem title="mytitle" description="mydesc"imgUrl="https://ichef.bbci.co.uk/news/1024/branded_news/2D3E/production/_132628511_e51369c5777ba4fa8575c97a3bed2c110178e280-1.jpg" newsUrl="todo"/>
-            </div> 
+        <NewsItem title={element.title} description={element.description} imgUrl={element.urlToImage} newsUrl={element.url}/>
+            </div> }) }
              <div className="col-md-4">
 
         <NewsItem title="mytitle" description="mydesc"/>

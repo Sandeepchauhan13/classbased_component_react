@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import NewsItem from './NewsItem';
+import React, { Component } from 'react'
+import NewsItem from './NewsItem'
 
 export class News extends Component {
     articles = [
@@ -134,40 +134,32 @@ export class News extends Component {
             "content": "A Texas woman has been shot and killed after she opened fire in a crowded megachurch owned by the evangelical pastor Joel Osteen. \r\nTwo off-duty police officers, working as church security, shot and … [+2498 chars]"
             }
     ]
-    // state can be set in class based component like this 
-    // state is used when we want to change baar baar without reloadig the page
-    // props are readonly 
-    constructor(){
+
+    constructor (){
         super()
-        // console.log("Hello i am a constructor")
         this.state={
-articles: this.articles,
-loading: false
+
+            articles: this.articles,
+            loading: false
         }
     }
+
   render() {
     return (
-      <div className="container my-3">
-        <h2 className="text-center">NewsWebApp  - Top Headlines</h2>
-        <div className="row">
-            {this.articles.map ((element)=>{
-         return   <div className="col-md-4" key={element.url}>
+      <>
+<div className="container">
+    <h2 className="text-center">NewsWebApp - Top Headlines</h2>
+    <div className="row">
+        {this.articles.map((element)=>{
+            return  <div className="col-md-4" key={element.url}>
+              <NewsItem title={element.title} description={element.description} imgUrl={element.urlToImage} newsUrl={element.url}/>
+      
+              </div>
+              })}
 
-        {/* <NewsItem title={element.title} description={element.description} imgUrl={element.urlToImage} newsUrl={element.url}/> */}
-        <NewsItem  title={element.title?element.title.slice(0,40):""} description={element.description?element.description.slice(0,60):""} newsUrl={element.url} imgUrl={element.urlToImage} author={element.author} date={element.publishedAt} source={element.source.name}/>
-            </div> }) }
-             <div className="col-md-4">
-
-        <NewsItem title="mytitle" description="mydesc"/>
-            </div>
-              <div className="col-md-4">
-
-        <NewsItem title="mytitle" description="mydesc"/>
-            </div>
-
-        </div>
-
-      </div>
+    </div>
+</div>
+      </>
     )
   }
 }
